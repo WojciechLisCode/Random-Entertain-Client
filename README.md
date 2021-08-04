@@ -1,7 +1,7 @@
 
 # <p align="center"> Random Entertain. </p>
 This is a frontend repository. The backtend repository can be found [here](https://github.com/WojciechLisCode/Random-Entertain-Server)
-</br> Here is [Deployed Website](https://candles-agora.netlify.app/) in current state. </br>
+</br> Here is [Deployed Website](https://random-entertain.netlify.app/) in current state. </br>
 
 ![Random Entertain.](https://github.com/WojciechLisCode/Random-Entertain-Client/blob/development/RE.gif)
 
